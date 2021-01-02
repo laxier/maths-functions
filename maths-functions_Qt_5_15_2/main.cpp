@@ -1,3 +1,4 @@
+//Scripted by Laxier
 #include "mainwindow.h"
 
 #include <QApplication>
